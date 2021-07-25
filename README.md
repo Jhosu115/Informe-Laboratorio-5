@@ -86,6 +86,7 @@ Tabla 5.2. Comprobación del Teorema de Thévenin.
 
 # 5 VIDEO 
 
+https://youtu.be/zZd-bzT-kss
 
 # 6 CONCLUSIONES 
 
