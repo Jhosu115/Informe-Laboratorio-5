@@ -41,6 +41,11 @@ Ing. Darwin Omar Alulema Flores
 
 # 2 MARCO TEÓRICO
 
+<div align="center">
+  
+![image](https://github.com/Jhosu115/Informe-Laboratorio-5/blob/main/png.png)
+  
+ </div>
 
 # 3 MATERIAL Y EQUIPO REQUERIDO
 
