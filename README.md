@@ -23,13 +23,11 @@ Ing. Darwin Omar Alulema Flores
 
 # 1 OBJETIVOS
 
-**1.1. OBJETIVO DE LA PRÁCTICA**
+## **1.1 Objetivo general**
 
-1.1.1. Objetivo general
+- Reducir los cálculos de un sistema eléctrico complejo por un circuito eléctrico equivalente mucho mas simple, constituido por una fuente de tensión y una resistencia, supongamos un circuito eléctrico lineal complejo y queremos establecer el circuito de Thévenin entre los dos terminales A y B. 
 
-- simplificar los cálculos de un sistema eléctrico complejo por un circuito eléctrico equivalente mucho mas simple, constituido por una fuente de tensión y una resistencia, supongamos un circuito eléctrico lineal complejo y queremos establecer el circuito de Thévenin entre los dos terminales A y B. 
-
-1.1.2. Objetivos específicoso
+## **1.2. Objetivos específicos**
 
 - Conocer los fundamentos básicos de estos teoremas y su aplicación.
 
