@@ -66,6 +66,7 @@ Ing. Darwin Omar Alulema Flores
 
 
 
+![image](https://github.com/Jhosu115/Informe-Laboratorio-5/blob/main/WhatsApp%20Image%202021-07-25%20at%2010.22.56%20PM.jpeg)
 
 # 5 VIDEO 
 
