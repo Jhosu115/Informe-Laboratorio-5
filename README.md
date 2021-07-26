@@ -64,22 +64,7 @@ Ing. Darwin Omar Alulema Flores
 
 # 4 EXPLICACIÓN DEL PROCEDIMIENTO
 
-Tabla 5.1. Valores del Circuito Equivalente de Thévenin
-     
-|  VTH (V)  |        |     RTH (Ω)   |           |
-|    :---:  |  :---: |     :---:     |   :---:   |    
-| Calculado |        |   Calculado   |           |  
-|   Medido  |        |     Medido    |           |   
-  
-Tabla 5.2. Comprobación del Teorema de Thévenin.
-  
-|**PARÁMETRO ELÉCTRICO**| **CIRCUITO ELÉCTRICO** | | **CIRCUITO EQUIVALENTE DE THÉVENIN** ||
-|     :---:    |   :---:   |     :---:     |   :---:       |    :---:    |  
-|              | Calculado |     Medido    |   Calculado   |   Medido    |   
-|  Voltaje (V) |           |               |               |             |  
-|Corriente (mA)|           |               |               |             |
 
-</div>
 
 
 # 5 VIDEO 
